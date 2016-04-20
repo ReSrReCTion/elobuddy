@@ -1,0 +1,10 @@
+C:\Users\hh\Desktop\LeeSin\LeeSin\bin\Release\LeeSin.exe.config
+C:\Users\hh\Desktop\LeeSin\LeeSin\bin\Release\LeeSin.exe
+C:\Users\hh\Desktop\LeeSin\LeeSin\bin\Release\LeeSin.pdb
+C:\Users\hh\Desktop\LeeSin\LeeSin\bin\Release\EloBuddy.dll
+C:\Users\hh\Desktop\LeeSin\LeeSin\bin\Release\EloBuddy.SDK.dll
+C:\Users\hh\Desktop\LeeSin\LeeSin\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\hh\Desktop\LeeSin\LeeSin\bin\Release\SharpDX.dll
+C:\Users\hh\Desktop\LeeSin\LeeSin\bin\Release\Newtonsoft.Json.dll
+C:\Users\hh\Desktop\LeeSin\LeeSin\obj\Release\LeeSin.exe
+C:\Users\hh\Desktop\LeeSin\LeeSin\obj\Release\LeeSin.pdb
