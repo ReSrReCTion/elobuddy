@@ -593,7 +593,6 @@ namespace Evade
                 {
                     //We are safe, stop evading.
                     Evading = false;
-                    NoSolutionFound = true;
                 }
                 else
                 {
@@ -731,12 +730,6 @@ namespace Evade
                     new Vector3(args.TargetPosition.X, args.TargetPosition.Y, ObjectManager.Player.ServerPosition.Z)).To2DList();
             var safeResult = IsSafe(PlayerPosition);
 
-            // Check for the unnessasary moving
-            if (Evading || safeResult.IsSafe)
-            {
-                Evading = false;
-                NoSolutionFound = true;
-            }
 
             //If we are evading:
             if (Evading || !safeResult.IsSafe)
