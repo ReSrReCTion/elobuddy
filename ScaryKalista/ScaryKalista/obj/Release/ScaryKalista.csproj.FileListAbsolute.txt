@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\EloBuddy-master\ScaryKalista\ScaryKalista\bin\Release\ScaryKalista.exe.config
+C:\Users\Administrator\Desktop\EloBuddy-master\ScaryKalista\ScaryKalista\bin\Release\ScaryKalista.exe
+C:\Users\Administrator\Desktop\EloBuddy-master\ScaryKalista\ScaryKalista\bin\Release\ScaryKalista.pdb
+C:\Users\Administrator\Desktop\EloBuddy-master\ScaryKalista\ScaryKalista\bin\Release\EloBuddy.dll
+C:\Users\Administrator\Desktop\EloBuddy-master\ScaryKalista\ScaryKalista\bin\Release\EloBuddy.SDK.dll
+C:\Users\Administrator\Desktop\EloBuddy-master\ScaryKalista\ScaryKalista\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Administrator\Desktop\EloBuddy-master\ScaryKalista\ScaryKalista\bin\Release\SharpDX.dll
+C:\Users\Administrator\Desktop\EloBuddy-master\ScaryKalista\ScaryKalista\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\EloBuddy-master\ScaryKalista\ScaryKalista\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Administrator\Desktop\EloBuddy-master\ScaryKalista\ScaryKalista\obj\Release\ScaryKalista.exe
+C:\Users\Administrator\Desktop\EloBuddy-master\ScaryKalista\ScaryKalista\obj\Release\ScaryKalista.pdb
